@@ -15,3 +15,7 @@
 - 이메일: [ijustgo@naver.com]
 - 블로그: [blog.naver.com/ijustgo]
 - 트위터: [twitter.com/ijustgo]
+
+git add .
+git commit -m "Add profile README"
+git push origin main
